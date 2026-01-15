@@ -11,6 +11,10 @@
 
 **Hunt down deleted tweets from the grave.**
 
+## Demo 
+
+https://github.com/user-attachments/assets/fa337afc-7bd8-4de0-8b59-94bd0c2d06c6
+
 X-REAPER finds and extracts deleted/protected tweets that were archived on [GhostArchive.org](https://ghostarchive.org) before they disappeared.
 
 ## Why This Exists
